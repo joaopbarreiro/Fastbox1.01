@@ -5,7 +5,4 @@ O presente projeto tem como objetivo expandir o projeto FastBox, iniciado no mó
 Nesta etapa, ampliamos o projeto criando um sistema de cadastro de funcionários e equipamentos que seria implementado no sistema coletor permitindo o registro de informações mais específicas tanto do técnico responsável quanto do material devolvido.
 
 ## Instrução de utilização:
-Foi utilizado o aplicativo VS Code e a linguagem de código Java para criar um sistema de classes e subclasses capaz de comportar os funcionários e equipamentos da Telemidia de forma que a o método aplicado registre devolução dos equipamentos pelos funcionários  através de conceitos de herança e polimorfismo .
-
-
-
+Compilar o código na ferramenta disponibilizada e recomendada durante as Webnars VS Code com a linguagem de código Java.
