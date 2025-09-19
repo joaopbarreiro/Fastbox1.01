@@ -5,4 +5,4 @@ O presente projeto tem como objetivo expandir o projeto FastBox, iniciado no mó
 Nesta etapa, ampliamos o projeto criando um sistema de cadastro de funcionários e equipamentos que seria implementado no sistema coletor permitindo o registro de informações mais específicas tanto do técnico responsável quanto do material devolvido.
 
 ## Instrução de utilização:
-Compilar o código na ferramenta disponibilizada e recomendada durante as Webnars VS Code com a linguagem de código Java.
+Compilar o código na ferramenta disponibilizada e recomendada durante as Webnars, VS Code com a linguagem de código Java.
